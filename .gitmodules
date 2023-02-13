@@ -1,0 +1,3 @@
+[submodule "themes/webstack"]
+	path = themes/webstack
+	url = git@github.com:flowstone/hexo-theme-webstack.git
