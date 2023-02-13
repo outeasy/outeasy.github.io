@@ -31,7 +31,10 @@ expandAll: false
 menu:
   - name: 作者网站
     icon: far fa-star
-    config: testPage
+    config: authorPage
+  - name: 自媒体工具
+    icon: far fa-star
+    config: weMediaTool
   - name: 常用工具
     icon: far fa-star
     config: hotTools
@@ -41,30 +44,29 @@ menu:
       - name: 开发工具
         icon: fas fa-tools
         config: devTools
-      - name: 我的博客
-        icon: fas fa-blog
-        config: myBlog
 
-testPage:
+
+authorPage:
   - name: 小码农薛尧
     url: http://www.xueyao.me
-    img: /images/logos/myblog.png
+    img: /images/logos/xueyao-logo.png
     description: 个人博客
+weMediaTool:
+  - name: removebg
+    url: https://www.remove.bg/
+    img: /images/logos/removebg-logo.png
+    description: 一键去背景
+  - name: carbon
+    url: https://carbon.now.sh/
+    img: /images/logos/carbon-logo.png
+    description: 源代码生成好看的图片
 devTools:
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
 
-myBlog:
-  - name: HCLonely Blog
-    url: https://blog.hclonely.com/
-    img: /images/logos/myBlog.png
-    description: 一个懒人的博客。
+
 
 about:
   url: /about/
@@ -79,13 +81,16 @@ aboutPage:
     head: 关于站长
     name: 小码农薛尧
     url: https://www.xueyao.me/
-    img: /images/logos/myblog.png
+    img: /images/logos/xueyao-logo.png
     description: 一个技术很菜的码农
-    html: '<br /><blockquote><p>测试
+    html: '<br /><blockquote>
+      <p>90后的Java程序员，平时很懒，随缘更新。<br/>好好学习，天天向上。</p>
     </blockquote>'
   updateLog:
     head: 更新日志
-    html:   
+    html: '<ul>
+    <li>2023年2月13日 添加博客链接</li>
+    </ul>'
 
 since: 2023
 
