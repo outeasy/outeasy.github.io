@@ -102,6 +102,6 @@ theme: webstack #landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 type: git
-  repo: git@github.com:flowstone/flowstone.github.io.git
+  repo: https://github.com/flowstone/flowstone.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
