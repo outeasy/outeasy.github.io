@@ -29,7 +29,7 @@ githubCorner: '<a href="https://github.com/flowstone/flowstone.github.io" class=
 #是否将侧边栏全部展开
 expandAll: false
 menu:
-  - name: 测试页面
+  - name: 作者网站
     icon: far fa-star
     config: testPage
   - name: 常用工具
@@ -46,10 +46,10 @@ menu:
         config: myBlog
 
 testPage:
-  - name: Child Page
-    url: /child
+  - name: 小码农薛尧
+    url: http://www.xueyao.me
     img: /images/logos/myblog.png
-    description: 子页面测试
+    description: 个人博客
 devTools:
   - name: Github
     url: https://github.com/
@@ -74,14 +74,18 @@ about:
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
+    html: '<blockquote><p>本站收集日常生活中遇到的工具，不定期更新。</p></blockquote>'
   webmaster:
     head: 关于站长
     name: 小码农薛尧
     url: https://www.xueyao.me/
     img: /images/logos/myblog.png
-    description: 懒人一个
-    html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+    description: 一个技术很菜的码农
+    html: '<br /><blockquote><p>测试
+    </blockquote>'
+  updateLog:
+    head: 更新日志
+    html:   
 
 since: 2023
 
