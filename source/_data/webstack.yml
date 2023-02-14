@@ -94,6 +94,7 @@ aboutPage:
     head: 更新日志
     html: '<ul>
     <li>2023年2月13日 添加博客链接</li>
+    <li>2023年2月14日 添加StoneWiki链接</li>
     </ul>'
 
 since: 2023
