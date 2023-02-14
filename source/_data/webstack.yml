@@ -51,6 +51,10 @@ authorPage:
     url: http://www.xueyao.me
     img: /images/logos/xueyao-logo.png
     description: 个人博客
+  - name: Stone Wiki
+    url: http://www.1512.org
+    img: /images/logos/stonewiki-logo.png
+    description: 个人Wiki  
 weMediaTool:
   - name: removebg
     url: https://www.remove.bg/
