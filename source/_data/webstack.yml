@@ -35,6 +35,9 @@ menu:
   - name: 自媒体工具
     icon: far fa-star
     config: weMediaTool
+  - name: 资源网站
+    icon: far fa-star
+    config: resourceSite  
   - name: 常用工具
     icon: far fa-star
     config: hotTools
@@ -64,11 +67,40 @@ weMediaTool:
     url: https://carbon.now.sh/
     img: /images/logos/carbon-logo.png
     description: 源代码生成好看的图片
+  - name: Md2All
+    url: http://md.aclickall.com/
+    img: /images/logos/github.png
+    description: Markdown排版利器
+resourceSite:
+  - name: Simple Icons
+    url: https://simpleicons.org/
+    img: /images/logos/github.png
+    description: 2000种免费流行品牌的SVG图标。
+  - name: Feather
+    url: https://feathericons.com/
+    img: /images/logos/github.png
+    description: 简单漂亮的开源图标。
+  - name: Pexels
+    url: https://www.pexels.com/
+    img: /images/logos/github.png
+    description: 免费版权的图库。   
 devTools:
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
+  - name: Json
+    url: https://www.json.cn/
+    img: /images/logos/github.png
+    description: Json格式化。  
+  - name: 菜鸟工具
+    url: https://c.runoob.com/
+    img: /images/logos/github.png
+    description: 属于菜鸟教程旗下，有许多实用工具。 
+  - name: 腾讯验证码
+    url: https://007.qq.com/
+    img: /images/logos/github.png
+    description: 腾讯打造的安全验证码。  
 
 
 
@@ -93,8 +125,9 @@ aboutPage:
   updateLog:
     head: 更新日志
     html: '<ul>
-    <li>2023年2月13日 添加博客链接</li>
+    <li>2023年2月16日 添加资源网址等链接</li>
     <li>2023年2月14日 添加StoneWiki链接</li>
+    <li>2023年2月13日 添加博客链接</li>
     </ul>'
 
 since: 2023
