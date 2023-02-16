@@ -69,21 +69,25 @@ weMediaTool:
     description: 源代码生成好看的图片
   - name: Md2All
     url: http://md.aclickall.com/
-    img: /images/logos/github.png
+    img: /images/logos/md2all-logo.png
     description: Markdown排版利器
 resourceSite:
   - name: Simple Icons
     url: https://simpleicons.org/
-    img: /images/logos/github.png
+    img: /images/logos/simpleicons-logo.png
     description: 2000种免费流行品牌的SVG图标。
   - name: Feather
     url: https://feathericons.com/
-    img: /images/logos/github.png
+    img: /images/logos/feather-logo.png
     description: 简单漂亮的开源图标。
   - name: Pexels
     url: https://www.pexels.com/
-    img: /images/logos/github.png
-    description: 免费版权的图库。   
+    img: /images/logos/pexels-logo.png
+    description: 免费版权的图库。
+  - name: AIDesign
+    url: https://ailogo.qq.com/
+    img: /images/logos/ailogo-logo.png
+    description: 腾讯智能Logo生成平台。    
 devTools:
   - name: Github
     url: https://github.com/
@@ -91,15 +95,15 @@ devTools:
     description: 面向开源及私有软件项目的托管平台。
   - name: Json
     url: https://www.json.cn/
-    img: /images/logos/github.png
+    img: /images/logos/json-logo.png
     description: Json格式化。  
   - name: 菜鸟工具
     url: https://c.runoob.com/
-    img: /images/logos/github.png
+    img: /images/logos/runoobtool-logo.png
     description: 属于菜鸟教程旗下，有许多实用工具。 
   - name: 腾讯验证码
     url: https://007.qq.com/
-    img: /images/logos/github.png
+    img: /images/logos/qq007-logo.png
     description: 腾讯打造的安全验证码。  
 
 
