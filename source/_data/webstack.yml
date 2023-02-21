@@ -37,7 +37,10 @@ menu:
     config: weMediaTool
   - name: 资源网站
     icon: far fa-star
-    config: resourceSite  
+    config: resourceSite
+  - name: 协作工具
+    icon: far fa-star
+    config: cooperationTool
   - name: 常用工具
     icon: far fa-star
     config: hotTools
@@ -63,6 +66,10 @@ weMediaTool:
     url: https://www.remove.bg/
     img: /images/logos/removebg-logo.png
     description: 一键去背景
+  - name: Magic Eraser
+    url: https://magicstudio.com/zh/magiceraser
+    img: /images/logos/github.png
+    description: 魔术橡皮擦
   - name: carbon
     url: https://carbon.now.sh/
     img: /images/logos/carbon-logo.png
@@ -87,7 +94,20 @@ resourceSite:
   - name: AIDesign
     url: https://ailogo.qq.com/
     img: /images/logos/ailogo-logo.png
-    description: 腾讯智能Logo生成平台。    
+    description: 腾讯智能Logo生成平台。 
+cooperationTool:
+  - name: Trello
+    url: https://trello.com/
+    img: /images/logos/github.png
+    description: 看板工具。
+  - name: Teambition
+    url: https://www.teambition.com/
+    img: /images/logos/github.png
+    description: 阿里巴巴旗下团队协作工具。
+  - name: Coding
+    url: https://coding.net/
+    img: /images/logos/github.png
+    description: 腾讯旗下一站式软件研发管理平台。
 devTools:
   - name: Github
     url: https://github.com/
@@ -129,6 +149,7 @@ aboutPage:
   updateLog:
     head: 更新日志
     html: '<ul>
+    <li>2023年2月21日 添加协作网址等链接</li>
     <li>2023年2月16日 添加资源网址等链接</li>
     <li>2023年2月14日 添加StoneWiki链接</li>
     <li>2023年2月13日 添加博客链接</li>
