@@ -78,6 +78,10 @@ weMediaTool:
     url: http://md.aclickall.com/
     img: /images/logos/md2all-logo.png
     description: Markdown排版利器
+  - name: waifu2x
+    url: https://waifu2x.udp.jp/
+    img: /images/logos/github.png
+    description: 动漫图片高清放大  
 resourceSite:
   - name: Simple Icons
     url: https://simpleicons.org/
