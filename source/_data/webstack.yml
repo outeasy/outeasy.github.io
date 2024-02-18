@@ -68,7 +68,7 @@ weMediaTool:
     description: 一键去背景
   - name: Magic Eraser
     url: https://magicstudio.com/zh/magiceraser
-    img: /images/logos/github.png
+    img: /images/logos/MagicEraser-logo.png
     description: 魔术橡皮擦
   - name: carbon
     url: https://carbon.now.sh/
@@ -80,7 +80,7 @@ weMediaTool:
     description: Markdown排版利器
   - name: waifu2x
     url: https://waifu2x.udp.jp/
-    img: /images/logos/github.png
+    img: /images/logos/waifu2x-logo.png
     description: 动漫图片高清放大  
 resourceSite:
   - name: Simple Icons
@@ -102,15 +102,15 @@ resourceSite:
 cooperationTool:
   - name: Trello
     url: https://trello.com/
-    img: /images/logos/github.png
+    img: /images/logos/trello-logo.png
     description: 看板工具。
   - name: Teambition
     url: https://www.teambition.com/
-    img: /images/logos/github.png
+    img: /images/logos/teambition-logo.png
     description: 阿里巴巴旗下团队协作工具。
   - name: Coding
     url: https://coding.net/
-    img: /images/logos/github.png
+    img: /images/logos/coding-logo.png
     description: 腾讯旗下一站式软件研发管理平台。
 devTools:
   - name: Github
