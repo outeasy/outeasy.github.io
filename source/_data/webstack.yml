@@ -41,9 +41,9 @@ menu:
   - name: 协作工具
     icon: far fa-star
     config: cooperationTool
-  - name: 常用工具
+  - name: Web3工具
     icon: far fa-star
-    config: hotTools
+    config: web3Tools
   - name: 其他工具
     icon: fas fa-tools
     submenu:
@@ -112,6 +112,23 @@ cooperationTool:
     url: https://coding.net/
     img: /images/logos/coding-logo.png
     description: 腾讯旗下一站式软件研发管理平台。
+web3Tools:
+  - name: unstoppable domains
+    url: https://unstoppabledomains.com/
+    img: /images/logos/unstoppabledomains-logo.png
+    description: Web3域名注册商。  
+  - name: NFT.STORAGE
+    url: https://nft.storage/
+    img: /images/logos/nft.storage-logo.png
+    description: NFT免费存储空间。  
+  - name: Pinata
+    url: https://www.pinata.cloud/
+    img: /images/logos/pinata-logo.png
+    description: IPFS免费节点,提供1G容量空间。
+  - name: web3.storage
+    url: https://web3.storage/
+    img: /images/logos/web3-storage-logo.png
+    description: IPFS免费节点，提供5G容量空间。   
 devTools:
   - name: Github
     url: https://github.com/
